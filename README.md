@@ -5,12 +5,12 @@ I’m a Software Engineer passionate about creating solutions that blend technol
 ---
 
 
-
 <div align="center">
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Gif" width="500" />
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Dog Typing Gif" width="500" />
 </div>
 
 ---
+
 
 ## 💡 Skills & Expertise
 
