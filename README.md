@@ -4,7 +4,7 @@ I’m a Software Engineer passionate about creating solutions that blend technol
 
 ---
 <div align="center">
-    <img src="https://media.tenor.com/X3Qptn8emQcAAAAC/dog-funny.gif" alt="Dog Typing Gif" width="300" />
+    <img src="https://media.tenor.com/images/6fbb62b6c5b79a6b4414c8c1b334b5e0/tenor.gif" alt="Dog Typing Gif" width="300" />
 </div>
 
 ---
