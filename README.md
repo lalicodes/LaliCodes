@@ -122,9 +122,10 @@ An interactive game recreating the classic Pokémon battle experience with a foc
 
 ## 🎯 Let’s Connect!
 
-If you’re working on something exciting or need a collaborator, I’d love to chat!  
-**LinkedIn:** [Lalitaambigai Balakrishnan](https://www.linkedin.com/in/lalitaambigai-balakrishnan-a5138b263/) 
-**Email:** [contactlalihere@gmail.com](mailto:contactlalihere@gmail.com)
+If you’re working on something exciting or need a collaborator, I’d love to chat! Feel free to reach out to me via LinkedIn or email.
+
+- **LinkedIn:** [Lalitaambigai Balakrishnan](https://www.linkedin.com/in/lalitaambigai-balakrishnan-a5138b263/)  
+- **Email:** [contactlalihere@gmail.com](mailto:contactlalihere@gmail.com)
 
 <div align="center">
     <img src="https://media.tenor.com/Bu5u_U2yZroAAAAC/dog-typing.gif" alt="Dog Typing Gif" width="300" />
@@ -132,4 +133,8 @@ If you’re working on something exciting or need a collaborator, I’d love to 
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting+my+profile!;Let’s+build+the+future+together!)](https://git.io/typing-svg)
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting+my+profile!;Let’s+build+the+future+together!" alt="Typing SVG">
+    </a>
+</div>
