@@ -4,10 +4,11 @@ I’m a Software Engineer passionate about creating solutions that blend technol
 
 ---
 <div align="center">
-    <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="Dog Typing Gif" width="300" />
+    <img src="https://media.giphy.com/media/11c7UUfN4eoHF6/giphy.gif" alt="Dog Typing Gif" width="300" />
 </div>
 
 ---
+
 
 
 
