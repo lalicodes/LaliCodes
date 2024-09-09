@@ -3,13 +3,12 @@
 I’m a Software Engineer passionate about creating solutions that blend technology with creativity. From AI models to scalable cloud applications, I'm always exploring new tech frontiers.
 
 ---
-
-
 <div align="center">
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Dog Typing Gif" width="500" />
+    <img src="https://media.giphy.com/media/3o6Zt8LdG2g7Wc4uRy/giphy.gif" alt="Dog Typing Gif" width="500" />
 </div>
 
 ---
+
 
 
 ## 💡 Skills & Expertise
