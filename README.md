@@ -128,7 +128,7 @@ If you’re working on something exciting or need a collaborator, I’d love to 
 - **Email:** [contactlalihere@gmail.com](mailto:contactlalihere@gmail.com)
 
 <div align="center">
-    <img src="https://media.tenor.com/Bu5u_U2yZroAAAAC/dog-typing.gif" alt="Dog Typing Gif" width="300" />
+    <img src="https://media.tenor.com/5BvD9YhE9H4AAAAC/dog-working.gif" alt="Funny Dog Working Gif" width="300" />
 </div>
 
 ---
