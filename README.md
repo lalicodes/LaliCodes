@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Lalitaambigai Balakrishnan!
+# 👋 Hello there, I'm Lali!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Let’s+build+something+awesome!)](https://git.io/typing-svg)
 
