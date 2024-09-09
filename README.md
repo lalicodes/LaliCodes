@@ -127,7 +127,9 @@ If you’re working on something exciting or need a collaborator, I’d love to 
 **Email:** [contactlalihere@gmail.com](mailto:contactlalihere@gmail.com)
 
 <div align="center">
-    <img src="https://media.tenor.com/X3Qptn8emQcAAAAC/dog-funny.gif" alt="Dog Typing Gif" width="300" />
+    <img src="https://media.tenor.com/Bu5u_U2yZroAAAAC/dog-typing.gif" alt="Dog Typing Gif" width="300" />
 </div>
+
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting+my+profile!;Let’s+build+the+future+together!)](https://git.io/typing-svg)
