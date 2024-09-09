@@ -2,16 +2,7 @@
 
 I’m a Software Engineer passionate about creating solutions that blend technology with creativity. From AI models to scalable cloud applications, I'm always exploring new tech frontiers.
 
----
-<div align="center">
-    <img src="https://media.tenor.com/images/6fbb62b6c5b79a6b4414c8c1b334b5e0/tenor.gif" alt="Dog Typing Gif" width="300" />
-</div>
-
----
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Let’s+build+something+awesome!)](https://git.io/typing-svg)
 
 
 
