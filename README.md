@@ -123,7 +123,7 @@ An interactive game recreating the classic Pokémon battle experience with a foc
 ## 🎯 Let’s Connect!
 
 If you’re working on something exciting or need a collaborator, I’d love to chat!  
-**LinkedIn:** [Lalitaambigai Balakrishnan](https://www.linkedin.com/in/lalitaambigai-balakrishnan-a5138b263/))  
+**LinkedIn:** [Lalitaambigai Balakrishnan](https://www.linkedin.com/in/lalitaambigai-balakrishnan-a5138b263/) 
 **Email:** [contactlalihere@gmail.com](mailto:contactlalihere@gmail.com)
 
 <div align="center">
