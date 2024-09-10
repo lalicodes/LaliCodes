@@ -69,7 +69,7 @@ I’m a passionate Software Engineer dedicated to crafting innovative solutions 
 ## 🌟 Highlighted Projects
 
 ### [Dinder](https://github.com/lalicodes/dinder)  
-A restaurant-matching app with real-time group filtering and personalized dining options. Built with Spring Boot, WebSockets, and React.js. **Won Best Project of the Semester!**
+A restaurant-matching app with real-time group filtering and personalized dining options. Built with Spring Boot, WebSockets, and React.js. **Won Best Project!**
 
 ### [Pokemon Game](https://github.com/lalicodes/PokemonGame)  
 An interactive game recreating the classic Pokémon battle experience with a focus on responsive UI/UX design.
