@@ -71,9 +71,6 @@ I’m a passionate Software Engineer dedicated to crafting innovative solutions 
 ### [Dinder](https://github.com/lalicodes/dinder)  
 A restaurant-matching app with real-time group filtering and personalized dining options. Built with Spring Boot, WebSockets, and React.js. **Won Best Project of the Semester!**
 
-### [Trendplay](https://github.com/lalicodes/trendplay)  
-A platform for indie game developers featuring real-time trend predictions with TensorFlow. Deployed on AWS for secure, multi-region operations.
-
 ### [Pokemon Game](https://github.com/lalicodes/PokemonGame)  
 An interactive game recreating the classic Pokémon battle experience with a focus on responsive UI/UX design.
 
