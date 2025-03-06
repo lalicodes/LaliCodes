@@ -76,16 +76,6 @@ An interactive game recreating the classic Pokémon battle experience with a foc
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <a href="https://github-readme-activity-graph.cyclic.app">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lalicodes&bg_color=1f1f1f&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
-  </a>
-</div>
-
----
-
 ## 📊 GitHub Stats and Top Languages
 
 <div align="center">
