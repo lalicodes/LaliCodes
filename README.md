@@ -120,7 +120,5 @@ If you’re working on something exciting or need a collaborator, I’d love to 
 ---
 
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Let’s+build+something+awesome!)](https://git.io/typing-svg)
-    </a>
+ 
 </div>
