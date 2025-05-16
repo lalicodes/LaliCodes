@@ -79,7 +79,6 @@ An interactive game recreating the classic Pokémon battle experience with a foc
 ## 📊 GitHub Stats and Top Languages
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalicodes&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalicodes&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
